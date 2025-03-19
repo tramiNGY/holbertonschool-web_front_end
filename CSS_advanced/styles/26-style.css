@@ -669,12 +669,12 @@ a:active {
 
 .card-testimonial .card-avatar {
     border-radius: 50%;
-    width: calc(10 * 1rem);
-    height: calc(10 * 1rem);
+    width: 10rem;
+    height: 10rem;
 }
 
 .card-testimonial .card-quote cite {
     display: block;
-    padding-top: calc(1 * 1rem);
+    padding-top: 1rem;
     color: var(--color-primary);
 }
