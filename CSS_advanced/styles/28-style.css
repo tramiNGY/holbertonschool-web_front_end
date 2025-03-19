@@ -446,7 +446,7 @@ template {
     --header-logo-link-left: 0;
 }
 
-header {
+.header {
     padding: var(--header-padding);
 }
 
