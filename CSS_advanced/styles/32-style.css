@@ -600,6 +600,7 @@ ul.row {
 
 .section-header {
     padding: var(--section-header-padding);
+    text-align: var(--section-header-align);
 }
 
 .section-body {
@@ -609,10 +610,6 @@ ul.row {
 .section-footer {
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
-}
-
-.section-header {
-    text-align: var(--section-header-align);
 }
 
 .section-title {
